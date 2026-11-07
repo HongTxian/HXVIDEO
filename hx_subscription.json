@@ -1,0 +1,141 @@
+{
+  "name": "网盘资源站线路",
+  "vod": [
+    {
+      "name": "[盘] 玩偶1",
+      "version": 3,
+      "webSite": "https://woggpan.888484.xy",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_wogg.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 玩偶2",
+      "version": 3,
+      "webSite": "https://www.wogg.net",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_wogg.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 木偶1",
+      "version": 6,
+      "webSite": "https://333.333291.xyz",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_mogg.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 木偶2",
+      "version": 6,
+      "webSite": "https://666.666291.xyz",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_mogg.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 木偶3",
+      "version": 6,
+      "webSite": "https://www.muoua.top",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_mogg.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 木偶4",
+      "version": 6,
+      "webSite": "https://123.666291.xyz",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_mogg.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 蜡笔1",
+      "version": 5,
+      "webSite": "http://tvpanpan.site",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_labipan.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 蜡笔2",
+      "version": 5,
+      "webSite": "https://www.mmpanpan.site",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_labipan.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 闪电1",
+      "version": 1,
+      "webSite": "http://shandian.blog",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_shandian.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 闪电2",
+      "version": 1,
+      "webSite": "http://sd.sduc.site",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_shandian.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 多多1",
+      "version": 3,
+      "webSite": "https://tv.214521.xyz",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_duoduo.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 多多2",
+      "version": 3,
+      "webSite": "https://pan.yydsys.de",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_duoduo.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 多多3",
+      "version": 3,
+      "webSite": "https://yydsys.de5.net",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_duoduo.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 多多4",
+      "version": 3,
+      "webSite": "https://tv.yydsys.cc",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_duoduo.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 欧哥1",
+      "version": 3,
+      "webSite": "https://woog.430520.xyz",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_ouge.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 欧哥2",
+      "version": 3,
+      "webSite": "https://woog.nxog.eu.org",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_ouge.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    },
+    {
+      "name": "[盘] 花卷",
+      "version": 3,
+      "webSite": "https://www.hjzhencai.top",
+      "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/uzVideo-extensions@main/vod/js/Pan_wogg.js",
+      "type": 101,
+      "remark": "网盘资源站"
+    }
+  ]
+}
