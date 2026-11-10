@@ -77,3 +77,4 @@ bash live/update_live.sh
   想留镜像就在 `live/` 放一份并加进 `update_live.sh`。
 - **删**：删掉那条即可。
 - 直播源不受 `api` 哈希碰撞影响（它不生成 extId），多个源可以共用同一个 M3U 地址。
+-软件地址 t.me/hxvideo2000
