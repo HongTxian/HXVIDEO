@@ -12,15 +12,6 @@
 内容完全相同，只有文件名不同，从而 `api` 地址各不相同，17 条全部生效。
 
 ```
-Pan_wogg_wogg1.js  ← 玩偶1
-Pan_wogg_wogg2.js  ← 玩偶2
-Pan_wogg_huajuan.js ← 花卷
-Pan_mogg_mogg1..4.js ← 木偶1..4
-Pan_labipan_labi1..2.js ← 蜡笔1..2
-Pan_shandian_sd1..2.js ← 闪电1..2
-Pan_duoduo_dd1..4.js ← 多多1..4
-Pan_ouge_og1..2.js ← 欧哥1..2
-```
 
 ## 目录结构
 
@@ -32,14 +23,6 @@ HXVIDEO/
 ├── pantools/
 │   └── panTools2.js           # 网盘解析工具（type 300）
 └── live/                      # 6 个直播源 M3U 镜像（type 10）
-    ├── huyayqk.m3u            # 虎牙一起看
-    ├── douyuyqk.m3u           # 斗鱼一起看
-    ├── yylunbo.m3u            # YY 轮播
-    ├── bililive.m3u           # 哔哩直播
-    ├── fanmingming_ipv6.m3u   # 范明明 IPv6
-    ├── guovin_result.m3u      # Guovin IPTV
-    └── update_live.sh         # 刷新上面 6 个镜像
-```
 
 ## 播放器里添加
 
@@ -63,19 +46,6 @@ HX 解析订阅时只遍历 `vod` / `recommend` / `panTools` / `sites` 四个顶
 
 直播条目的 `api` 是 M3U 地址，安装时**不下载源码**，只在直播页按需拉取解析
 （`lib/data/live_source.dart`）。
-
-## 直播源与 live/ 镜像
-
-`live/` 里是 6 个 M3U 的**快照**，`subscription.json` 默认指向**源站实时地址**：
-
-| 名称 | 订阅里的地址 |
-|---|---|
-| 🐯虎牙一起看 | `https://sub.ottiptv.cc/huyayqk.m3u` |
-| 🐟斗鱼一起看 | `https://sub.ottiptv.cc/douyuyqk.m3u` |
-| 🔄YY轮播 | `https://sub.ottiptv.cc/yylunbo.m3u` |
-| 📺哔哩直播 | `https://sub.ottiptv.cc/bililive.m3u` |
-| 📡范明明IPv6 | `https://cdn.jsdelivr.net/gh/fanmingming/live@refs/heads/main/tv/m3u/ipv6.m3u` |
-| 🛰️Govin | `https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u` |
 
 这些列表由源站动态生成（文件里带「列表更新时间」，实测几小时刷新一次），
 所以订阅用实时地址而不是仓库快照 —— 快照里的频道地址很快会失效。
