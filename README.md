@@ -1,4 +1,4 @@
-# HXVIDEO 网盘订阅
+# HXVIDEO 网盘订阅 -软件地址 t.me/hxvideo2000
 
 自托管网盘 JS + 订阅文件。全部 `api` 指向本仓库，走 jsDelivr。
 
