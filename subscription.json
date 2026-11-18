@@ -186,9 +186,9 @@
     },
     {
       "name": "懂片帝",
-      "version": 1,
+      "version": 2,
       "webSite": "https://dongpian17.com",
-      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_dpdd.enc.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_dpdd2.enc.js",
       "type": 101,
       "remark": "dongpian17.com 官方接口（签名版）"
     },
