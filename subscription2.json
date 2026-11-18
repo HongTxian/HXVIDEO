@@ -194,9 +194,9 @@
     },
     {
       "name": "枫叶4K",
-      "version": 1,
+      "version": 2,
       "webSite": "https://cd-zj.com",
-      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_fengye.enc.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_fengye2.enc.js",
       "type": 101,
       "remark": "cd-zj.com 网页解析；列表/搜索首次使用需输一次验证码"
     },
