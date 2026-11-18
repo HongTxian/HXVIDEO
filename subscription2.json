@@ -202,9 +202,9 @@
     },
     {
       "name": "POMO 4K 原盘",
-      "version": 1,
+      "version": 2,
       "webSite": "https://pomo.mom",
-      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_pomo.enc.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_pomo2.enc.js",
       "type": 101,
       "remark": "蓝光原盘聚合（西瓜/暴风/天堂/非凡），自动换直链"
     }
