@@ -191,6 +191,22 @@
       "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_dpdd.enc.js",
       "type": 101,
       "remark": "dongpian17.com 官方接口（签名版）"
+    },
+    {
+      "name": "枫叶4K",
+      "version": 1,
+      "webSite": "https://cd-zj.com",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_fengye.enc.js",
+      "type": 101,
+      "remark": "cd-zj.com 网页解析；列表/搜索首次使用需输一次验证码"
+    },
+    {
+      "name": "POMO 4K 原盘",
+      "version": 1,
+      "webSite": "https://pomo.mom",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_pomo.enc.js",
+      "type": 101,
+      "remark": "蓝光原盘聚合（西瓜/暴风/天堂/非凡），自动换直链"
     }
   ]
 }
