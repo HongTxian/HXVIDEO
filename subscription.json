@@ -7,7 +7,7 @@
       "remark": "iOS 14 及以下版本专用",
       "env": "百度网盘Cookie##用于播放百度网盘视频&&UCCookie##用于播放UC网盘视频&&UC_Token##UC网盘 Open API Token（可选，优先使用）&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&115Cookie##用于播放115网盘视频&&PikPakToken##用于存储登录信息,Bearer 开头&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/pantools/panTools2.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/pantools/panTools2.js",
       "type": 300
     }
   ],
@@ -16,7 +16,7 @@
       "name": "[盘] 玩偶1",
       "version": 3,
       "webSite": "https://woggpan.888484.xy",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_wogg_wogg1.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_wogg_wogg1.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -24,7 +24,7 @@
       "name": "[盘] 玩偶2",
       "version": 3,
       "webSite": "https://www.wogg.net",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_wogg_wogg2.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_wogg_wogg2.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -32,7 +32,7 @@
       "name": "[盘] 木偶1",
       "version": 6,
       "webSite": "https://333.333291.xyz",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_mogg_mogg1.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_mogg_mogg1.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -40,7 +40,7 @@
       "name": "[盘] 木偶2",
       "version": 6,
       "webSite": "https://666.666291.xyz",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_mogg_mogg2.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_mogg_mogg2.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -48,7 +48,7 @@
       "name": "[盘] 木偶3",
       "version": 6,
       "webSite": "https://www.muoua.top",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_mogg_mogg3.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_mogg_mogg3.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -56,7 +56,7 @@
       "name": "[盘] 木偶4",
       "version": 6,
       "webSite": "https://123.666291.xyz",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_mogg_mogg4.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_mogg_mogg4.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -64,7 +64,7 @@
       "name": "[盘] 蜡笔1",
       "version": 5,
       "webSite": "http://tvpanpan.site",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_labipan_labi1.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_labipan_labi1.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -72,7 +72,7 @@
       "name": "[盘] 蜡笔2",
       "version": 5,
       "webSite": "https://www.mmpanpan.site",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_labipan_labi2.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_labipan_labi2.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -80,7 +80,7 @@
       "name": "[盘] 闪电1",
       "version": 1,
       "webSite": "http://shandian.blog",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_shandian_sd1.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_shandian_sd1.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -88,7 +88,7 @@
       "name": "[盘] 闪电2",
       "version": 1,
       "webSite": "http://sd.sduc.site",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_shandian_sd2.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_shandian_sd2.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -96,7 +96,7 @@
       "name": "[盘] 多多1",
       "version": 3,
       "webSite": "https://tv.214521.xyz",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_duoduo_dd1.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_duoduo_dd1.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -104,7 +104,7 @@
       "name": "[盘] 多多2",
       "version": 3,
       "webSite": "https://pan.yydsys.de",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_duoduo_dd2.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_duoduo_dd2.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -112,7 +112,7 @@
       "name": "[盘] 多多3",
       "version": 3,
       "webSite": "https://yydsys.de5.net",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_duoduo_dd3.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_duoduo_dd3.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -120,7 +120,7 @@
       "name": "[盘] 多多4",
       "version": 3,
       "webSite": "https://tv.yydsys.cc",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_duoduo_dd4.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_duoduo_dd4.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -128,7 +128,7 @@
       "name": "[盘] 欧哥1",
       "version": 3,
       "webSite": "https://woog.430520.xyz",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_ouge_og1.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_ouge_og1.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -136,7 +136,7 @@
       "name": "[盘] 欧哥2",
       "version": 3,
       "webSite": "https://woog.nxog.eu.org",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_ouge_og2.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_ouge_og2.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -144,7 +144,7 @@
       "name": "[盘] 花卷",
       "version": 3,
       "webSite": "https://www.hjzhencai.top",
-      "api": "https://cdn.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_wogg_huajuan.js",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/panjs/Pan_wogg_huajuan.js",
       "type": 101,
       "remark": "网盘资源站"
     },
@@ -174,15 +174,23 @@
     },
     {
       "name": "📡范明明IPv6",
-      "api": "https://cdn.jsdelivr.net/gh/fanmingming/live@refs/heads/main/tv/m3u/ipv6.m3u",
+      "api": "https://fastly.jsdelivr.net/gh/fanmingming/live@refs/heads/main/tv/m3u/ipv6.m3u",
       "type": 10,
       "remark": "来自 范明明 大佬 https://github.com/fanmingming"
     },
     {
       "name": "🛰️Govin",
-      "api": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+      "api": "https://fastly.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
       "type": 10,
       "remark": "来自 Guovin 大佬 https://github.com/Guovin"
+    },
+    {
+      "name": "懂片帝",
+      "version": 1,
+      "webSite": "https://dongpian17.com",
+      "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_dpdd.enc.js",
+      "type": 101,
+      "remark": "dongpian17.com 官方接口（签名版）"
     }
   ]
 }
