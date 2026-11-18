@@ -194,7 +194,7 @@
     },
     {
       "name": "枫叶4K",
-      "version": 2,
+      "version": 4,
       "webSite": "https://cd-zj.com",
       "api": "https://fastly.jsdelivr.net/gh/HongTxian/HXVIDEO@main/vodjs/hx_fengye2.enc.js",
       "type": 101,
